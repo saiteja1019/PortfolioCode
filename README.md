@@ -140,9 +140,6 @@ Content-based recommendation system that suggests movies based on user preferenc
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiteja1019&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja1019&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=saiteja1019&theme=tokyonight)
 
